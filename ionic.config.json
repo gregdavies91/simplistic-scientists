@@ -1,0 +1,7 @@
+{
+  "name": "Simplistic Scientists",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
